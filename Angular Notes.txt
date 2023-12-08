@@ -5,7 +5,7 @@ Angular 17
 3)it provides testing framework like jasmine,karma,protractor.
 4)language used for angular is typescript.It support oops.(javascript-var)
 5)Framework supported are MVC,MVVM
-6)it is also used for cross flatform mobile and web appliaction.
+6)it is also used for cross Platform mobile and web application.
 7)it is used for SPA (single page application) .
 8)it has high speed and performance is better as compared to older technolgy 
 used webpages.
